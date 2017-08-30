@@ -1,0 +1,2 @@
+/Volumes/videoSAN/p2_SD	archive1/applsrver2.ndc.nasa.gov/p2_SD 
+/Volumes/videoSAN/readyToArchive	archive1/applsrver2.ndc.nasa.gov/readyToArchive

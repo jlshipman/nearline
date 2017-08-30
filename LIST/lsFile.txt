@@ -1,0 +1,2 @@
+/Volumes/videoSAN/p2_SD	/mss/ms/msb/video/archives/archive1/p2_SD
+/Volumes/videoSAN/readyToArchive	/mss/ms/msb/video/archives/archive1/readyToArchive
